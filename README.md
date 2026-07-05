@@ -82,6 +82,6 @@ If you like this repository, don't forget to ⭐ **Star** it.
 
 ## 👨‍💻 Author
 
-**Farhan Nawaz**
+**Ayan Nawaz**
 
 Happy Coding! 🚀
